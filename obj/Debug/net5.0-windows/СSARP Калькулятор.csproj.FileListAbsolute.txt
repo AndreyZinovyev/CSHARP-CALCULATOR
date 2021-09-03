@@ -1,0 +1,18 @@
+D:\C#\СSARP Калькулятор\bin\Debug\net5.0-windows\СSARP Калькулятор.exe
+D:\C#\СSARP Калькулятор\bin\Debug\net5.0-windows\СSARP Калькулятор.deps.json
+D:\C#\СSARP Калькулятор\bin\Debug\net5.0-windows\СSARP Калькулятор.runtimeconfig.json
+D:\C#\СSARP Калькулятор\bin\Debug\net5.0-windows\СSARP Калькулятор.runtimeconfig.dev.json
+D:\C#\СSARP Калькулятор\bin\Debug\net5.0-windows\СSARP Калькулятор.dll
+D:\C#\СSARP Калькулятор\bin\Debug\net5.0-windows\ref\СSARP Калькулятор.dll
+D:\C#\СSARP Калькулятор\bin\Debug\net5.0-windows\СSARP Калькулятор.pdb
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.csprojAssemblyReference.cache
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP_Калькулятор.Form1.resources
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.csproj.GenerateResource.cache
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.AssemblyInfoInputs.cache
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.AssemblyInfo.cs
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.csproj.CoreCompileInputs.cache
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.dll
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\ref\СSARP Калькулятор.dll
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.pdb
+D:\C#\СSARP Калькулятор\obj\Debug\net5.0-windows\СSARP Калькулятор.genruntimeconfig.cache
